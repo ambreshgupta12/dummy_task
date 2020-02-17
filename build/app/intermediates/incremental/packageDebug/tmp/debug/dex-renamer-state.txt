@@ -1,0 +1,4 @@
+#Sun Feb 16 16:54:44 IST 2020
+base.0=/home/ambresh/Music/dummy_task/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
